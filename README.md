@@ -1,5 +1,5 @@
-# CAL
-We provide a detailed code for CAL.
+# CAL-plus
+We provide a detailed code for CAL-plus.
 
 ## Installations
 Main packages: PyTorch, Pytorch Geometric, OGB.
